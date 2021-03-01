@@ -1,0 +1,5 @@
+{"args":{},"headers":{"Accept":"application/json, text/plain, */*","Host":"httpbin.org","User-Agent":"axios/0.21.1","X-Amzn-Trace-Id":"Root=1-603c368f-586fd318463cfcf61c9ec7b0"},"origin":"180.254.113.128","url":"https://httpbin.org/get"}
+Data sudah terhapus
+Data sudah dipost
+Data sudah diupdate
+Patch Error : Error: Request failed with status code 405
